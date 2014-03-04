@@ -1,4 +1,4 @@
-## [EusLisp](http://euslisp.sourceforge.net) [![Build Status](https://travis-ci.org/euslisp/EusLisp.png?branch=master)](https://travis-ci.org/euslisp/EusLisp)
+## [EusLisp](http://github.com/euslisp/EusLisp) [![Build Status](https://travis-ci.org/euslisp/EusLisp.png?branch=master)](https://travis-ci.org/euslisp/EusLisp)
 
 EusLisp was originally developed by [Dr. Toshihiro Matusi at AIST](http://staff.aist.go.jp/t.matsui/ )
 
@@ -10,7 +10,7 @@ EusLisp is an integrated programming system for the research on intelligent robo
 
 ### Easy Installation and Demo Program
 
-Please check http://jskeus.sourceforge.net for easy installation and current demo programs. Most of programs in euslisp/eus/lib/ euslisp/eus/contrib/ directories are out-dated.
+Please check http://github.com/euslisp/jskeus for easy installation and current demo programs. Most of programs in euslisp/eus/lib/ euslisp/eus/contrib/ directories are out-dated.
 
 ### How To Download and Compile
 
@@ -18,7 +18,7 @@ Note: we strongly recommend you to check http://github.com/euslisp/jskeus for do
 
 
 ```
-$ svn co https://euslisp.svn.sourceforge.net/svnroot/euslisp/trunk/EusLisp euslisp
+$ git clone https://github.com/euslisp/EusLisp euslisp
 $ cd euslisp
 $ export ARCHDIR=Linux
 $ export EUSDIR=`pwd`
